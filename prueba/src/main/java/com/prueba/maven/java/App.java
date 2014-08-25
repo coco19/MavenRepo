@@ -1,9 +1,7 @@
 package com.prueba.maven.java;
 
 /**
- * Hello world!
- *
- */
+ //programa de prueba
 public class App 
 {
     public static void main( String[] args )
